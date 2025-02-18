@@ -19,6 +19,15 @@ public class GameApplication {
         minesweeper.initialize();
         minesweeper.run();
     }
+
+    /**
+     * DIP (Dependency Inversion Principle
+     *
+     * DI (Depedency Injection) - "3"
+     *
+     * IoC (Inversion of Control)
+     *
+     */
 }
 
 
